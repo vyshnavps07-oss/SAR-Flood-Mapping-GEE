@@ -54,4 +54,4 @@ The outputs of this open-source pipeline correlate strongly with peer-reviewed m
 * **Radar Parameters:** The selection of the $-18\text{ dB}$ VH threshold correlates with cross-polarization behavior profiles published by *Sherpa et al. (2020) [IEEE JSTARS]*.
 
 ---
-*Developed as part of an advanced geospatial data science portfolio exploring NRT hazard observation and crisis informatics.*
+An advanced geospatial data science framework optimizing Near Real-Time (NRT) satellite observation, crisis informatics, and socio-economic exposure analytics during extreme weather events.
