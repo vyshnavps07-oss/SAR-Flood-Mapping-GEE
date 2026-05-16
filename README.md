@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vyshnavps07-oss/SAR-Flood-Mapping-GEE/blob/main/S1_SAR_Flood_Mapping_Kerala.ipynb)
+
 # Near Real-Time Flood Extent Mapping & Socio-Economic Impact Assessment Using Sentinel-1 SAR
 
 ## 1. Project Infrastructure Overview
